@@ -5,3 +5,9 @@ These resets generally remove sizing, margins, paddings or additional styles, to
 
 Lesson 2 - Getting to Know HTML
 Dive deeper with different HTML components. New elements and hyperlinks.
+
+Lesson 3 - Getting to Know CSS
+CSS specificity. Identifying how styles will be rendered. 
+i.e. the more specific a css style is for a selector, the more priority the css style has over others.
+Multiple styles can be applied to a selector.
+No changes were made to the project in this lesson
