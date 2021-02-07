@@ -1,3 +1,7 @@
 Lesson 1 - Building Your First Web Page
 HTML and CSS lesson ending with CSS reset to provide a unified style for all browsers. 
 These resets generally remove sizing, margins, paddings or additional styles, toning these values down.
+
+
+Lesson 2 - Getting to Know HTML
+Dive deeper with different HTML components. New elements and hyperlinks.
