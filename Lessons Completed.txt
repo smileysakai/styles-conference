@@ -19,3 +19,7 @@ A look at different use cases for creating usable layouts and uniquely positioni
 
 Lesson 6 - Working with Typography
 A look at some of the basic principles of typography and how to apply them using HTML and CSS
+
+Lesson 7 - Setting Backgrounds & Gradients
+How to assign different types of backgrounds, including gradients, to elements; also playing around with a handful of CSS3 
+properties to specific backgrounds.
