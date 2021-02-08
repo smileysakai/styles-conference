@@ -23,3 +23,6 @@ A look at some of the basic principles of typography and how to apply them using
 Lesson 7 - Setting Backgrounds & Gradients
 How to assign different types of backgrounds, including gradients, to elements; also playing around with a handful of CSS3 
 properties to specific backgrounds.
+
+Lesson 8 - Creating Lists
+Different list types and styling them
