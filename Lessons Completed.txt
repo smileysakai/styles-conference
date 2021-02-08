@@ -13,3 +13,6 @@ No changes were made to the project in this lesson
 
 Lesson 4 - Opening the Box Model
 How elements are displayed on a page and how they are sized. Deep look into the box model and how it works with HTML and CSS.
+
+Lesson 5 - Positioning Content
+A look at different use cases for creating usable layouts and uniquely positioning one-off elements
