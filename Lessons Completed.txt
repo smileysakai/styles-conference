@@ -15,4 +15,7 @@ Lesson 4 - Opening the Box Model
 How elements are displayed on a page and how they are sized. Deep look into the box model and how it works with HTML and CSS.
 
 Lesson 5 - Positioning Content
-A look at different use cases for creating usable layouts and uniquely positioning one-off elements
+A look at different use cases for creating usable layouts and uniquely positioning one-off elements|
+
+Lesson 6 - Working with Typography
+A look at some of the basic principles of typography and how to apply them using HTML and CSS
