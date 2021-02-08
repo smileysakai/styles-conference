@@ -26,3 +26,6 @@ properties to specific backgrounds.
 
 Lesson 8 - Creating Lists
 Different list types and styling them
+
+Lesson 9 - Adding Media
+Add images, audio, video and inline frames
