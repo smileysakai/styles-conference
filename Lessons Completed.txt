@@ -29,3 +29,6 @@ Different list types and styling them
 
 Lesson 9 - Adding Media
 Add images, audio, video and inline frames
+
+Lesson 10 - Building Forms
+How to use HTML to mark up a form, which elements to use to capture different types of data, and how to style forms with CSS.
